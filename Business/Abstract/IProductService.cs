@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Business.Abstract
 {
-    internal interface IProductService
+    public interface IProductService
     {
         public IDataResult <List<Product>>GetAll();
         public IDataResult<List<Product>> GetAllByCategoryId(int Id);
