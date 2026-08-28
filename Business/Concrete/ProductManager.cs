@@ -70,6 +70,7 @@ namespace Business.Concrete
             throw new NotImplementedException();
         }
 
+        [SecuredOperation("admin,editor,product.add")] //claim::solda parantezin içineki key wordler 
         [ValidationAspect(typeof(ProductValidator))]
         public IResult Add(Product product)
         {
