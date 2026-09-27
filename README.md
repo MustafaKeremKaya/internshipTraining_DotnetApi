@@ -1,6 +1,6 @@
 # internship_training_dotnet_api
 
-Bu proje, staj sürecimde eğitim amacıyla geliştirilmiş kapsamlı bir backend / web API uygulamasıdır. Projenin temel amacı, endüstri standartlarında servisler geliştirmek ve veritabanı entegrasyon süreçlerini uygulamalı olarak pekiştirmektir.
+Bu proje, kendi staj sürecimde eğitim amaçlı geliştirilmiş bir backend / web API uygulamasıdır. Projenin temel amacı, endüstri standartlarında servisler geliştirmeyi ve veritabanı entegrasyon süreçlerini uygulamalı olarak öğrenmek ve pekiştirmektir.
 
 ## 📚 Proje Hakkında
 
@@ -13,4 +13,4 @@ Proje geliştirme sürecinde aşağıdaki teknolojiler ve araçlar kullanılmı�
 * **Dil:** C#
 * **Framework:** .NET Web API / ASP.NET Core
 * **Veritabanı:** PostgreSQL
-* **Geliştirme Ortamı:** Visual Studio / VS Code
+* **Geliştirme Ortamı:** Visual Studio
